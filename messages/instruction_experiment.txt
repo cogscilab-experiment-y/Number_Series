@@ -1,1 +1,13 @@
-experiment
+W tym zadaniu będziesz mieć do rozwiązania 18 zagadek. 
+W każdej z nich musisz odnaleźć regułę rządzącą podanymi liczbami. 
+
+Na przykład:
+
+2, 4, 6, 8, 10, ?
+
+W tym przykładzie każda następna liczba rośnie o 2 w stosunku do poprzedniej. 
+Poprawna odpowiedź w miejsce pytajnika to zatem 12.
+
+Na każdą zagadkę masz 2 minuty czasu.
+
+Przyciśnij SPACJĘ by przejść do zadania.
